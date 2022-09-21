@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/petsy/static/css/main.f7412d2d.css",
+    "main.js": "/petsy/static/js/main.c2d8a1e1.js",
+    "static/media/pexels-anastasia-shuraeva-7673836.jpg": "/petsy/static/media/pexels-anastasia-shuraeva-7673836.625d7f2f65acc298c5b7.jpg",
+    "static/media/petsy-hero.jpg": "/petsy/static/media/petsy-hero.d9fb5591b4b881d6579b.jpg",
+    "static/media/KahootsWebsite_GFSalmonRecipe30lb_1200x1200.webp": "/petsy/static/media/KahootsWebsite_GFSalmonRecipe30lb_1200x1200.ceff588f0be7938abe45.webp",
+    "static/media/Kahoots_BiscuitsMaple1_1200x1200.webp": "/petsy/static/media/Kahoots_BiscuitsMaple1_1200x1200.91500f61bb2a338b9c61.webp",
+    "static/media/KahootsWebsite_SweetPotatoChews_1200x1200.webp": "/petsy/static/media/KahootsWebsite_SweetPotatoChews_1200x1200.061ef067c4a06f992fef.webp",
+    "static/media/Kahoots-home-icon-03_300x.avif": "/petsy/static/media/Kahoots-home-icon-03_300x.b5f26955f996903d3dc6.avif",
+    "static/media/Kahoots-home-icon-02_300x.avif": "/petsy/static/media/Kahoots-home-icon-02_300x.cb286c740671be24930d.avif",
+    "static/media/Kahoots-home-icon-01_300x.avif": "/petsy/static/media/Kahoots-home-icon-01_300x.d5fad0e758adcd824a00.avif",
+    "index.html": "/petsy/index.html",
+    "static/media/insta-icon.svg": "/petsy/static/media/insta-icon.0f10f2ff20b8b8169a7ec664d17f0d42.svg",
+    "static/media/facebook-icon.svg": "/petsy/static/media/facebook-icon.c860d258f50e911e6062ddca82393adf.svg",
+    "main.f7412d2d.css.map": "/petsy/static/css/main.f7412d2d.css.map",
+    "main.c2d8a1e1.js.map": "/petsy/static/js/main.c2d8a1e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7412d2d.css",
+    "static/js/main.c2d8a1e1.js"
+  ]
+}
